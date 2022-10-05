@@ -1,0 +1,188 @@
+* {
+    margin: 0;
+}
+
+body {
+    background-color: rgb(47, 23, 15);
+    background-image: linear-gradient(rgba(47, 23, 15, 0.65), rgba(47, 23, 15, 0.65)), url(https://startbootstrap.github.io/startbootstrap-business-casual/assets/img/bg.jpg);
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+.site-heading {
+    margin-top: 80px;
+    font-family: 'Raleway', sans-serif;
+    text-transform: uppercase;
+    text-align: center;
+}
+
+.heading-upper {
+    font-size: 1.2 rem;
+    display: block;
+    color: rgb(230, 167, 86);
+    opacity: 1;
+    font-weight: 800;
+}
+
+.heading-lower {
+    letter-spacing: 2px;
+    font-size: 5rem;
+    display: block;
+    font-family: 'Raleway', sans-serif;
+    font-weight: 100;
+    color: #f6e1c5;
+    line-height: 6rem;
+}
+
+.navigation {
+    margin-top: 55px;
+    background-color: rgba(47, 23, 15, 0.9);
+    width: 100%;
+    height: 90px;
+}
+
+.nav-list {
+    text-align: center;
+    list-style: none;
+    text-transform: uppercase;
+    color: rgba(255, 255, 255, 0.7);
+    font-family: 'Raleway', sans-serif;
+    font-weight: 800;
+    font-size: 0.9rem;
+}
+
+.nav-list li {
+    box-sizing: border-box;
+    display: inline-block;
+    padding: 35px;
+}
+
+li a {
+    text-decoration: none;
+    color: rgba(255, 255, 255, 0.7);
+}
+
+.sec1 {
+    display: flex;
+    justify-content: right;
+    margin-top: 12rem;
+}
+
+.sec2 {
+    display: flex;
+    justify-content: left;
+    margin-top: 12rem;
+}
+
+.all {
+    height: 860px;
+}
+
+.sa {
+    margin-bottom: 22rem;
+}
+
+.sec1-img {
+    background-image: url(https://startbootstrap.github.io/startbootstrap-business-casual/assets/img/products-01.jpg);
+    margin: auto;
+    height: 700px;
+    width: 900px;
+}
+
+.text1 {
+    margin-top: -7rem;
+    background-color: #f6e1c5;
+    z-index: 1;
+    position: absolute;
+    margin-bottom: -3rem;
+    margin-right: 110px;
+    width: 485px;
+    height: 170px;
+    border-radius: 0.25rem;
+    box-sizing: border-box;
+    padding: 3rem;
+}
+
+.heading {
+    font-family: 'Raleway', sans-serif;
+    text-transform: uppercase;
+    color: #212529;
+    text-align: left;
+}
+
+.img1-head {
+    font-size: 1rem;
+    font-weight: 800;
+    display: block;
+}
+
+.img1-sub {
+    font-size: 3rem;
+    font-weight: 100;
+    display: block;
+}
+
+.text2 {
+    background-color: #f6e1c5;
+    z-index: 1;
+    position: absolute;
+    margin-top: -3rem;
+    margin-left: 110px;
+    width: 770px;
+    height: 210px;
+    border-radius: 0.25rem;
+    box-sizing: border-box;
+    padding: 3rem;
+}
+
+.down {
+    color: #212529;
+    text-align: left;
+    font-size: 1rem;
+    font-family: 'Lora', sans-serif;
+    line-height: 1.9rem;
+}
+
+.all2 {
+    height: 760px;
+}
+
+.img2 {
+    background-image: url(https://startbootstrap.github.io/startbootstrap-business-casual/assets/img/products-02.jpg);
+    height: 600px;
+    width: 900px;
+}
+
+.img3 {
+    background-image: url(https://startbootstrap.github.io/startbootstrap-business-casual/assets/img/products-03.jpg);
+    height: 505px;
+    width: 900px;
+}
+
+.sec3 {
+    width: 696px;
+}
+
+.middle {
+    margin-left: 640px;
+}
+
+.image2 {
+    margin-left: 110px;
+    width: 545px;
+}
+
+.section3{
+    height:760px;
+}
+
+.footer {
+    box-sizing: border-box;
+    background-color: rgba(47, 23, 15, 0.9);
+    height: 110px;
+    text-align: center;
+    padding-top: 40px;
+    color: white;
+    word-spacing: 0.2rem;
+}
